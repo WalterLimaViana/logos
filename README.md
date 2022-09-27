@@ -19,3 +19,5 @@ Utilizado no logo do netflix, para que span criado (que é a faixa que corta dan
 - Grid
 
 O grid foi utilizado na div container, para posicionar as duas logos de forma igual na página.
+
+<img src="./src/img/logos.png">

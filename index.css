@@ -1,3 +1,8 @@
+.container {
+  display: grid;
+  grid-template-columns: 25% 40%;
+  justify-content: center;
+}
 .netflix {
   background: #000;
   display: flex;
@@ -11,6 +16,7 @@
 .base__netflix {
   width: 50px;
   height: 250px;
+  right: 10%;
   background: #b20710;
   position: relative;
 }
